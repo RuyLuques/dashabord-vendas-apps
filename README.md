@@ -1,4 +1,6 @@
 # 📊 Dashboard de Análise de Vendas
+🌐 **Dashboard Online:**  
+👉 https://ruyluques.streamlit.app/
 
 Projeto de Business Intelligence desenvolvido em Python com foco em análise de desempenho comercial, utilizando Streamlit e Plotly para visualização interativa.
 
